@@ -1,4 +1,4 @@
-# Singularity config for simg-circs container
+# Singularity config for simg-circs container.
 
 A [Singularity Hub](https://www.singularity-hub.org/) definition for circs workflow.
 
